@@ -90,5 +90,12 @@ Jupyter Notebook
 
 
 <img width="1298" height="724" alt="Screenshot 2025-12-12 125605" src="https://github.com/user-attachments/assets/d4cd1dff-acb4-4b35-a1fb-02850a6b4cee" />
+<img width="1119" height="743" alt="Screenshot 2025-12-12 125646" src="https://github.com/user-attachments/assets/3c21a54e-879b-4ac8-a91b-fcf92f5f1d11" />
+<img width="597" height="438" alt="Screenshot 2025-12-12 125702" src="https://github.com/user-attachments/assets/fd60364c-e377-49ea-907d-ad6ce6a11563" />
+<img width="617" height="444" alt="Screenshot 2025-12-12 125710" src="https://github.com/user-attachments/assets/07553433-e587-4202-89cd-9d2d2d204e6a" />
+<img width="755" height="607" alt="Screenshot 2025-12-12 125722" src="https://github.com/user-attachments/assets/a373868b-2c8d-4337-8e81-aa7a5357daba" />
+<img width="814" height="593" alt="Screenshot 2025-12-12 125735" src="https://github.com/user-attachments/assets/0cd339c1-0c22-453e-98d6-e86792b750cf" />
 <img width="695" height="389" alt="Screenshot 2025-12-12 125748" src="https://github.com/user-attachments/assets/152e6c4f-c1d8-4e8e-9bb4-1c89a965b47a" />
+<img width="870" height="509" alt="Screenshot 2025-12-12 125757" src="https://github.com/user-attachments/assets/5f2412e9-74f8-4fc8-b556-d1f10f9eaf2c" />
+
 
